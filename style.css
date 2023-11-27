@@ -1,0 +1,46 @@
+
+
+
+.search-icon{
+    position: relative;
+    top: -40px;
+    left:720px;
+}
+.esty{
+    /* font-size:xx-large; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: tomato;
+    font-size: 40px;
+}
+/* .for-more{
+    position: relative;
+    top: -40px;
+
+} */
+.carousel-inner{
+    position: relative;
+    left: 30px;
+}
+.dropdown-hover:hover>.dropdown-menu {
+    display: inline-block;
+    }
+    
+    .dropdown-hover>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+    }
+
+    .navbar-nav .dropdown-menu {
+        position: absolute !important ;
+        left: 0px;
+    }
+    .heart-icon{
+        position: relative;
+        left: 40px;
+        top: 10px;
+        
+    }
+    .text{
+        font-family: 'Nanum Myeongjo', serif;
+        font-size:xx-large;
+    }
